@@ -463,11 +463,11 @@ img {
 
   /* Works */
   .works-name {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .works-info {
-    margin-top: 3px;
+    margin-top: 8px;
   }
 
   .works-list {
